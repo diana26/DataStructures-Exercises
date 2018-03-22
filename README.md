@@ -1,1 +1,1 @@
-# DataStructures-Exercises
+# DataStructure-course
